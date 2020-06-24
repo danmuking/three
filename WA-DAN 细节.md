@@ -3,7 +3,7 @@
 
 
 
-![image-20200624184459533](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200624184459533.png)
+![image-20200624184459533](E:\Code\three\img\wsdan\image-20200624184459533.png)
 
 输入图片
 
@@ -23,7 +23,7 @@ BAP(Bilinear Attention Pooling)的过程：首先通过网络的主干（如resn
 
 ![img](https://davidocea.github.io/images/posts/WS-DAN/f4-b.png)
 
-![image-20200624184521020](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20200624184521020.png)
+![image-20200624184521020](E:\Code\three\img\wsdan\image-20200624184521020.png)
 
 数据集细节
 
